@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(71, 71, 71);
+}
+.col{
+    background-color: rgb(255, 255, 255);
+}
+.container{
+    margin-top:20px;
+    border-radius: 15px;
+}
+.nav-link{
+    color:rgb(253, 125, 5)
+}
